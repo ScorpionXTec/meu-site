@@ -456,7 +456,7 @@ footer {
 }
 
 /* Responsividade */
-@media (max-width: 768px) {
+@media (max-width: 1135px) {
     .nav-container {
         flex-direction: column;
         align-items: flex-start;
